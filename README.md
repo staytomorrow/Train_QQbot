@@ -19,8 +19,8 @@
 ![e21b8feb4bbb7487e65bc938fe2eb121_720](https://raw.githubusercontent.com/staytomorrow/Train_QQbot/main/pic/E21B8FEB4BBB7487E65BC938FE2EB121.jpg)
 
 # 📩 使用方法
-扫描下图二维码即可将机器人添加进自己的群/频道
-![image](https://github.com/staytomorrow/Train_QQbot/assets/20775434/a6aef1a1-35fa-426b-a27e-c69a194f96e5)
+扫描下图二维码即可将机器人添加进自己的群/频道</br>
+![image](https://github.com/staytomorrow/Train_QQbot/blob/main/pic/QQ%E6%88%AA%E5%9B%BE20231209115318.png?raw=true)
 <details >
 <summary>有关自行部署的问题</summary>
   仓库中源码为很久以前的旧版源码，新版源码请等待作者忙完再说（。本地部署同理，可在群内联系作者询问。
