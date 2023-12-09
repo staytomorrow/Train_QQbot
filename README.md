@@ -28,3 +28,12 @@
 
 # 🔋 功能
 ![e21b8feb4bbb7487e65bc938fe2eb121_720](https://raw.githubusercontent.com/staytomorrow/Train_QQbot/main/pic/E21B8FEB4BBB7487E65BC938FE2EB121.jpg)
+
+# 感谢
+特别感谢[黄河铁路网](https://jprailfan.com/)，感谢站长的细心指导<\br>
+以下排名不分先后<\br>
+[12306](https://www.12306.cn/index/)<\br>
+[下关站](http://www.xiaguanzhan.com/)<\br>
+[中国铁路地图](http://cnrail.geogv.org/<\br>
+[铁路信息查询](https://rail.re/)
+
