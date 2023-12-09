@@ -1,7 +1,7 @@
 <div align="center">
 
 # 海兰德小助手
-![image](https://picdl.sunbangyan.cn/2023/12/09/760378df439338e9238d0cb9ef388a4c.jpeg)
+![image](https://pic.imgdb.cn/item/6573e1bfc458853aef43b934.jpg)
 
 
 ### 基于QQ官方API上线的一款铁路信息查询机器人
