@@ -5,7 +5,7 @@
 
 
 ### 基于QQ官方API上线的一款铁路信息查询机器人
-<img src="https://img.shields.io/badge/QQGroup-584380963-blue" alt="QQGroup">
+<img src="https://img.shields.io/badge/QQGroup-104933948-blue" alt="QQGroup">
 
 
 
